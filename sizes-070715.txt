@@ -1,0 +1,13 @@
+4.1T	unigenes
+455G	gSSRs
+24G	honeylocust_GBS
+9.5G	comparative_genomics
+5.6G	chloroplast_reconstruction
+5.5G	symap
+2.6G	website
+1.1G	bac_sequencing
+
+398M	bac_libraries
+82M	estsFromGenBank
+444K	nro_physical_map
+16M	oak_gen_map_comp

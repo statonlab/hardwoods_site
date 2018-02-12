@@ -13,6 +13,7 @@ This repository is *not* for code-based issues, per se.  But, if a problem iwth 
 # HWG 
 * [Hardwoods site index](https://github.com/statonlab/hardwoods_site/issues) You Are Here
 * [Hardwood Bootstrap Theme](https://github.com/statonlab/hardwood)
+* [Hardwoods help](https://github.com/statonlab/hardwoods_help)
 # Tripal
 ### Core Modules
 * [Tripal](https://github.com/tripal/tripal)

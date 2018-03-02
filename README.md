@@ -31,11 +31,12 @@ This repository is *not* for code-based issues, per se.  But, if a problem iwth 
 * [SSR](https://github.com/statonlab/tripal_ssr)
 
 #### Dev Tools
-* Mini Dataset [DevSeed](https://github.com/statonlab/tripal_dev_mini_dataset)
+* [Mini Dataset DevSeed](https://github.com/statonlab/tripal_dev_mini_dataset)
 * [Fields Generator](https://github.com/statonlab/fields_generator)
 * [Alchemist](https://github.com/statonlab/tripal_alchemist)
 * [TripalDock](https://github.com/statonlab/tripaldock)
 * [Tripal Property Curations](https://github.com/statonlab/tripal_property_curations)
+* [Tripal Tests](https://github.com/statonlab/TripalTestSuite)
 
 # Treesnap
 * [TreeSnap web](https://github.com/mestato/Treesnap-website)

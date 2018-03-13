@@ -35,6 +35,7 @@ This repository is *not* for code-based issues, per se.  But, if a problem iwth 
 * [Fields Generator](https://github.com/statonlab/fields_generator)
 * [Alchemist](https://github.com/statonlab/tripal_alchemist)
 * [TripalDock](https://github.com/statonlab/tripaldock)
+  -  [Base Docker images](https://github.com/statonlab/docker-containers)
 * [Tripal Property Curations](https://github.com/statonlab/tripal_property_curations)
 * [Tripal Tests](https://github.com/statonlab/TripalTestSuite)
 

@@ -29,6 +29,7 @@ This repository is *not* for code-based issues, per se.  But, if a problem iwth 
 * [Jbrowse](https://github.com/statonlab/tripal_jbrowse_instance)
 * [Transcriptomes Table](https://github.com/statonlab/tripal_transcriptomes_table)
 * [SSR](https://github.com/statonlab/tripal_ssr)
+* [CV X-ray](https://github.com/statonlab/tripal_cv_xray)
 
 #### Dev Tools
 * [Mini Dataset DevSeed](https://github.com/statonlab/tripal_dev_mini_dataset)

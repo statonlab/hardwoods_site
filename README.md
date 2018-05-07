@@ -31,6 +31,7 @@ This repository is *not* for code-based issues, per se.  But, if a problem iwth 
 * [SSR](https://github.com/statonlab/tripal_ssr)
 * [CV X-ray](https://github.com/statonlab/tripal_cv_xray)
 * [Manage Analyses](https://github.com/statonlab/tripal_manage_analyses).  Provides analysis browser fields.  Library browser field.
+* [cmap field and loader](https://github.com/statonlab/tripal_cmap_loader)
 
 #### Dev Tools
 * [Mini Dataset DevSeed](https://github.com/statonlab/tripal_dev_mini_dataset)

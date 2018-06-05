@@ -10,11 +10,15 @@ This includes:
 This repository is *not* for code-based issues, per se.  But, if a problem iwth our code is causing an issue on Hardwoods, we can keep track of it here too.  Please use the individual module repositories that host the code (see below).
 
 
+
 # HWG 
 * [Hardwoods site index](https://github.com/statonlab/hardwoods_site/issues) You Are Here
 * [Hardwood Bootstrap Theme](https://github.com/statonlab/hardwood)
 * [Hardwoods help](https://github.com/statonlab/hardwoods_help)
 # Tripal
+
+Flashy collection of Statonlab Tripal Modules [website](https://statonlab.github.io/hardwoods_tripal_showcase/)/[repo](https://github.com/statonlab/hardwoods_tripal_showcase)
+
 ### Core Modules
 * [Tripal](https://github.com/tripal/tripal)
 * [Analysis Blast](https://github.com/tripal/tripal_analysis_blast)
